@@ -1,5 +1,5 @@
-output "ec2-output" {
-    value = aws_instance.example
-    sensitive = true
+# output "ec2-output" {
+#     value = aws_instance.example
+#     sensitive = true
 
-}
+# }
