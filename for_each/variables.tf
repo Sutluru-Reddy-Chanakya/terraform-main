@@ -17,9 +17,9 @@ variable "instances" {
 # }
 
 variable "zone_id" {
-    default = "Z05013202FKF0ZL12WAOP"
+    default = "Z027359523QFZK0V41S4X"
 }
 
 variable "domain_name" {
-    default = "daws88s.online"
+    default = "cineniti.in"
 }
