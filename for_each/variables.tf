@@ -9,11 +9,12 @@
 #      }
 #  }
 
-This should be converted into set
+#This should be converted into set
 
 variable "instances" {
     type = list
     default = ["mongodb", "redis"]
+}
 
 # This should be converted into set
 # variable "instances" {
